@@ -1,68 +1,16 @@
 [
   {
     "id": 1,
-    "name": "LandScape",
+    "firstName": "Dhani", 
+    "lastName": "Pozniak",
     "image":
-    "assets/images/digiPic01.jpg",
-    "alt": "screenshot of LandScape App",
+    "assets/images/profilePic01.jpg",
+    "alt": "profile picture",
     "description": 
-    "This is a movie review website where users can look up any movie and see reviews. This could help them decide to watch a movie or not. Secondly, users can register as a member and this allows them to also add their own reviews. They can also go into their profile page and delete any of their reviews that they are not happy with.",
-    "url": "https://lit-peak-86961.herokuapp.com/",
-    "github": "https://github.com/Tonnette/Project2"
-  },
-  {
-  "id": 2,
-  "name": "React",
-  "image":
-    "assets/images/digiPic02.jpg",
-  "alt": "screenshot of Employee Directory App",
-  "description": 
-  "This application is an employee directory that was created using React. It allows the user to filter their employees to easily find the details of specific people. It also allows the user to sort through the names in alphabetical and reverse.", 
-  "url": "https://tonnette-employee-react-app.herokuapp.com/",
-  "github": "https://github.com/Tonnette/React-Employee-Directory"
-},
-{
-  "id": 3,
-  "name": "Employee",
-  "image":
-    "assets/images/digiPic03.jpg",
-  "alt": "screenshot of Employee Directory App",
-  "description": 
-  "This application is an employee directory that was created using React. It allows the user to filter their employees to easily find the details of specific people. It also allows the user to sort through the names in alphabetical and reverse.", 
-  "url": "https://tonnette-employee-react-app.herokuapp.com/",
-  "github": "https://github.com/Tonnette/React-Employee-Directory"
-},
-{
-  "id": 4,
-  "name": "Directory",
-  "image":
-    "assets/images/digiPic04.jpg",
-  "alt": "screenshot of Employee Directory App",
-  "description": 
-  "This application is an employee directory that was created using React. It allows the user to filter their employees to easily find the details of specific people. It also allows the user to sort through the names in alphabetical and reverse.", 
-  "url": "https://tonnette-employee-react-app.herokuapp.com/",
-  "github": "https://github.com/Tonnette/React-Employee-Directory"
-},
-{
-  "id": 5,
-  "name": "Come",
-  "image":
-    "assets/images/digiPic05.jpg",
-  "alt": "screenshot of Employee Directory App",
-  "description": 
-  "This application is an employee directory that was created using React. It allows the user to filter their employees to easily find the details of specific people. It also allows the user to sort through the names in alphabetical and reverse.", 
-  "url": "https://tonnette-employee-react-app.herokuapp.com/",
-  "github": "https://github.com/Tonnette/React-Employee-Directory"
-},
-{
-  "id": 6,
-  "name": "On",
-  "image":
-    "assets/images/digiPic06.jpg",
-  "alt": "screenshot of Employee Directory App",
-  "description": 
-  "This application is an employee directory that was created using React. It allows the user to filter their employees to easily find the details of specific people. It also allows the user to sort through the names in alphabetical and reverse.", 
-  "url": "https://tonnette-employee-react-app.herokuapp.com/",
-  "github": "https://github.com/Tonnette/React-Employee-Directory"
-}
+    "I am a self/ goal-driven person who can work independently and as part of a team. I live in Sydney with my wife and kids and have a Bachelors Degree in Mechanical Engineering. My interest in IT began when I started pulling apart computers and putting them back together again. I am a highly motivated and hardworking individual. My education in full stack web development at the University of Sydney, and self-taught knowledge and experience combined with my interest, passion and enjoyment in coding, programming, Cloud Computing and Virtualization, will enable me to learn, contribute and excel in the Web Development Industry. My ability to learn new coding languages and programs enables me to understand coding concepts quickly which can then be transferred and utilized in developing user-friendly web-based applications using html, css, javaScript, bootstrap, jQuery and many more coding languages and concepts.My degree in Mechanical Engineering showed me that it is important that function and making sure that what you build or create works in the way you intend before you worry about how it will look. I enjoy working out how things work and why they function the way they do. I enjoy the programming and back-end side of things which is why I would like to maybe venture into game programming. Cyber-security is another field that I would like to try. I like challenging myself to prove to myself that I am capable accomplishing anything that is thrown at me.",
+    "url": "https://pozengineer.github.io/cosc2196AssessmentTask1/ ",
+    "github": "https://github.com/pozengineer/cosc2196AssessmentTask1/",
+    "studentNum": "s3807705",
+    "email": "s3807705@student.rmit.edu.au"
+  }
 ]

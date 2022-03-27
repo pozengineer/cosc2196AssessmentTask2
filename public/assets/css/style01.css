@@ -35,6 +35,10 @@ html, body {
     background-color: #ffffff;
 }
 
+.navbar {
+    padding: 8px 80px;
+}
+
 .navbar-brand {
     /* font-family: "Georgia", "Times New Roman", Times, serif; */
     font-family: Verdana, "Geneva", sans-serif;
@@ -100,15 +104,12 @@ html, body {
 .nav-link {
     padding: 0;
     background-color: #212121;
+    color: #ffffff !important;
 }
 
 .fa {
     margin-right: 5px;
     font-size: 25px;
-}
-
-.nav-link{
-    color: #ffffff !important;
 }
 
 .labelText {
@@ -215,7 +216,7 @@ h6 {
     font-family: Verdana, "Geneva", sans-serif;;
     color: #212121;
     margin-left: 10px;
-    text-align: center !important;
+    text-align: left !important;
     /* padding-top: 20px; */
     /* padding-bottom: 20px; */
     font-size: 18px;
@@ -251,7 +252,7 @@ p {
 
 hr {
     border: none;
-    height: 5px;
+    height: 5px !important;
     background-color:#dddddd;
     margin-top: 0;
     margin-bottom: 0;
