@@ -30,18 +30,13 @@ Getting Started
 This documentation will assist you in viewing this project. To view the project either open
 the url of the deployed application with the following address in any browser:
 
-https://pozengineer.github.io/cosc2196AssessmentTask1/
+https://young-cove-88717.herokuapp.com/
 
 Download and clone the repository from GitHub using the following command:
 
-git clone https://github.com/pozengineer/cosc2196AssessmentTask1.git
+git clone https://github.com/pozengineer/cosc2196AssessmentTask2.git
 
 This application was built using:
 - HTML: HyperText Markup Language that allows the developer to describe pages
 - CSS: Style Sheet Language that allows the developer to style an HTML document
 - BootStrap: Library of HTML and CSS files and code https://getbootstrap.com/
-
-![Home tablet](assets/images/updatedPortfolio01.jpg)
-![Home responsive](assets/images/portfolioMkIII02.jpg)
-![Projects tablet](assets/images/portfolioMkIII03.jpg)
-![Modal tablet](assets/images/portfolioMkIII04.jpg)
